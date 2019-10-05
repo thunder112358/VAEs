@@ -1,6 +1,12 @@
 # VAEs
 Collections of VAEs
 
+* Disentanglement Representations
+* Variational Inference. Find the bound to be close to the real postrior distribution.
+* Dimensionality Reduction
+* Not MLE, Choose Adversarial training procedure(Implicit Variational Inference). Reference: BayesGroup(Russian)
+* Applications
+
 Questions:
 
 1. What is Amortized Variational inference? 
